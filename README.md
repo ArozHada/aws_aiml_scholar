@@ -1,4 +1,4 @@
-#Intelligent Document Querying System on AWS
+# Intelligent Document Querying System on AWS
 
 Final AWS Bedrock RAG project as a part of the AWS AI&ML Scholars Fellowship
 
